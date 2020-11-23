@@ -1,0 +1,3 @@
+This is sample2 document
+Contains Git Hub repository information
+More insight on remote repository
