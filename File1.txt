@@ -1,2 +1,3 @@
-This is my new file
-Im working with Git
+Introduction
+
+Git is a software tool for version control system whereas Git Hub is service
